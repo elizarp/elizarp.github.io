@@ -6,6 +6,6 @@ collection: talks
 author_profile: false
 ---
 
-{% for post in site.talks %}
+{% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}

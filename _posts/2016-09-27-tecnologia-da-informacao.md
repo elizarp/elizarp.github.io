@@ -5,6 +5,8 @@ categories:
 tags:
   - tecnologia
   - imasters
+---
+
 
 Reflexão sobre como utilizar a tecnologia da informação nas organizações.
 

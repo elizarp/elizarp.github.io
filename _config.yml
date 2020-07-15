@@ -264,9 +264,6 @@ compress_html:
     envs: development
 
 collections:
-  talks:
-    output: true
-    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
@@ -288,13 +285,6 @@ defaults:
   - scope:
       path: ""
       type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
     values:
       layout: single
       author_profile: true

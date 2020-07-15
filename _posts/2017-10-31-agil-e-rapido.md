@@ -5,6 +5,8 @@ categories:
 tags:
   - agile
   - imasters
+---
+
 
 Muitas pessoas confundem agilidade com velocidade. Nesse artigo publicado no IMasters, explico a diferença dos conceitos na entrega dos produtos.
 

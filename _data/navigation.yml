@@ -1,8 +1,8 @@
 main:
-  - title: "Posts"
+  - title: "Posts/Talks"
     url: /year-archive/
-  - title: "Talks"
-    url: /talks/
+  #- title: "Talks"
+  #  url: /talks/
   - title: "Projects"
     url: /projects/
   #- title: "Categorias"
