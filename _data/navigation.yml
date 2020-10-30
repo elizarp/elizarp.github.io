@@ -1,9 +1,17 @@
 main:
-  - title: "Posts/Talks"
+  - title: "Sobre"
+    url: /about/
+  - title: "Educação"
+    url: /education/
+  - title: "Experiência"
+    url: /experience/
+  - title: "Artigos"
+    url: /year-archive/
+  - title: "Palestras"
     url: /year-archive/
   #- title: "Talks"
   #  url: /talks/
-  - title: "Projects"
+  - title: "Projetos"
     url: /projects/
   #- title: "Categorias"
   #  url: /categories/
